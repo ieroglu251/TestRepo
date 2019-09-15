@@ -8,3 +8,5 @@
 
 7 - tabak
 8 - ev
+ 9 - masa
+ 10 - hali
