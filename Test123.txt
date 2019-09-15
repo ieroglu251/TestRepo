@@ -5,3 +5,6 @@
 4 - cay
 5 - cookie
 6 - laptop
+
+7 - tabak
+8 - ev
