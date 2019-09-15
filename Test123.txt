@@ -1,3 +1,7 @@
 1 - calacagim
 2 - yemek yemek
-3 - uyumak.
+
+
+4 - cay
+5 - cookie
+6 - laptop
